@@ -85,6 +85,9 @@ nav ul li a:hover{
 .content p{
     color: #918b8b;
     line-height: 1.5rem;
+    max-width:90%;
+    width:6rem;
+    
 }
 .content .btn{
     display: inline-block;
